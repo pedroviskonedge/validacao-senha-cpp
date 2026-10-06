@@ -1,2 +1,13 @@
-# senha-e-acesso-negado
-sistema em c++ para senha, 3 tentativas e acesso negado(for,break,if.)
+# Validação de senha em C++
+
+Proposta de atividade acadêmica de Pedro Roberto para praticar validação de senha com um limite de três tentativas.
+
+## Conceitos previstos
+
+- Repetição com `for`.
+- Condições com `if`.
+- Interrupção da repetição com `break`.
+
+## Situação atual
+
+Este repositório contém a descrição da atividade. O código-fonte ainda não foi adicionado aqui.
